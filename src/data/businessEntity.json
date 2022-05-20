@@ -1,0 +1,22 @@
+[
+  {
+    "label": "PT",
+    "value": "pt"
+  },
+  {
+    "label": "CV",
+    "value": "cv"
+  },
+  {
+    "label": "Yayasan",
+    "value": "yayasan"
+  },
+  {
+    "label": "Koperasi",
+    "value": "koperasi"
+  },
+  {
+    "label": "Perkumpulan",
+    "value": "perkumpulan"
+  }
+]

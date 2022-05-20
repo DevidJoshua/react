@@ -1,0 +1,786 @@
+[
+  {
+    "label": "MCC0742 - Vaterinary Services",
+    "id": "MCC0742 - Vaterinary Services"
+  },
+  {
+    "label": "MCC1520 - General Contractor, Residential(developer)",
+    "id": "MCC1520 - General Contractor, Residential(developer)"
+  },
+  {
+    "label": "MCC1711 - Heating AC",
+    "id": "MCC1711 - Heating AC"
+  },
+  {
+    "label": "MCC1731 - Special Trade Contractors that performs electrical work",
+    "id": "MCC1731 - Special Trade Contractors that performs electrical work"
+  },
+  {
+    "label": "MCC3025 - Air New Zealand Limited Intl",
+    "id": "MCC3025 - Air New Zealand Limited Intl"
+  },
+  {
+    "label": "MCC3103 - Garuda Airlines",
+    "id": "MCC3103 - Garuda Airlines"
+  },
+  {
+    "label": "MCC3357 - Hertz Rent-a-Car",
+    "id": "MCC3357 - Hertz Rent-a-Car"
+  },
+  {
+    "label": "MCC3501 - Holiday Inn Hotel",
+    "id": "MCC3501 - Holiday Inn Hotel"
+  },
+  {
+    "label": "MCC3503 - Sheraton Hotel",
+    "id": "MCC3503 - Sheraton Hotel"
+  },
+  {
+    "label": "MCC3509 - Marriott Hotel",
+    "id": "MCC3509 - Marriott Hotel"
+  },
+  {
+    "label": "MCC3513 - Westin Hotel",
+    "id": "MCC3513 - Westin Hotel"
+  },
+  {
+    "label": "MCC3518 - Sol Hotel",
+    "id": "MCC3518 - Sol Hotel"
+  },
+  {
+    "label": "MCC3520 - Meridien Hotel",
+    "id": "MCC3520 - Meridien Hotel"
+  },
+  {
+    "label": "MCC3525  - Dunfey Hotel",
+    "id": "MCC3525  - Dunfey Hotel"
+  },
+  {
+    "label": "MCC3543 - Four Seasons Resort Hotel",
+    "id": "MCC3543 - Four Seasons Resort Hotel"
+  },
+  {
+    "label": "MCC3545 - Shangri-La Hotel",
+    "id": "MCC3545 - Shangri-La Hotel"
+  },
+  {
+    "label": "MCC3557 - Hertz Corporation",
+    "id": "MCC3557 - Hertz Corporation"
+  },
+  {
+    "label": "MCC3560 - Dai-Ichi Hotel Intl",
+    "id": "MCC3560 - Dai-Ichi Hotel Intl"
+  },
+  {
+    "label": "MCC3570 - Crowne Plaza Hotel",
+    "id": "MCC3570 - Crowne Plaza Hotel"
+  },
+  {
+    "label": "MCC3577 - Mandarin Oriental Hotel",
+    "id": "MCC3577 - Mandarin Oriental Hotel"
+  },
+  {
+    "label": "MCC3640 - Grand Hyatt Hotel",
+    "id": "MCC3640 - Grand Hyatt Hotel"
+  },
+  {
+    "label": "MCC3642 - Novotel Hotel",
+    "id": "MCC3642 - Novotel Hotel"
+  },
+  {
+    "label": "MCC3657 - Oberoi Hotel",
+    "id": "MCC3657 - Oberoi Hotel"
+  },
+  {
+    "label": "MCC3687 - Clarion Hotel",
+    "id": "MCC3687 - Clarion Hotel"
+  },
+  {
+    "label": "MCC3690 - Courtyard Hotel",
+    "id": "MCC3690 - Courtyard Hotel"
+  },
+  {
+    "label": "MCC3710 - The Ritz Carlton Hotel",
+    "id": "MCC3710 - The Ritz Carlton Hotel"
+  },
+  {
+    "label": "MCC3742 - Club Med",
+    "id": "MCC3742 - Club Med"
+  },
+  {
+    "label": "MCC4111 - Transportation Ferry",
+    "id": "MCC4111 - Transportation Ferry"
+  },
+  {
+    "label": "MCC4121 - Taxi",
+    "id": "MCC4121 - Taxi"
+  },
+  {
+    "label": "MCC4215 - Courier Services (Cargo)",
+    "id": "MCC4215 - Courier Services (Cargo)"
+  },
+  {
+    "label": "MCC4225 - Agricultural Cooperatives",
+    "id": "MCC4225 - Agricultural Cooperatives"
+  },
+  {
+    "label": "MCC4411 - Steamship/Cruse Line",
+    "id": "MCC4411 - Steamship/Cruse Line"
+  },
+  {
+    "label": "MCC4468 - The Retail Sales of Marine Supplies",
+    "id": "MCC4468 - The Retail Sales of Marine Supplies"
+  },
+  {
+    "label": "MCC4511 - Airlines",
+    "id": "MCC4511 - Airlines"
+  },
+  {
+    "label": "MCC4582 - Airport, Airfields and Airport Terminals",
+    "id": "MCC4582 - Airport, Airfields and Airport Terminals"
+  },
+  {
+    "label": "MCC4722 - Travel Agencies and Tour Operators",
+    "id": "MCC4722 - Travel Agencies and Tour Operators"
+  },
+  {
+    "label": "MCC4784 - Bridge Fees and Tolls",
+    "id": "MCC4784 - Bridge Fees and Tolls"
+  },
+  {
+    "label": "MCC4789 - Transportation Services",
+    "id": "MCC4789 - Transportation Services"
+  },
+  {
+    "label": "MCC4812 - Telp.Service -> Non Utility",
+    "id": "MCC4812 - Telp.Service -&gt; Non Utility"
+  },
+  {
+    "label": "MCC4814 - Telecommunication Services",
+    "id": "MCC4814 - Telecommunication Services"
+  },
+  {
+    "label": "MCC4816 - Computer Network (Internet Service Providers)",
+    "id": "MCC4816 - Computer Network (Internet Service Providers)"
+  },
+  {
+    "label": "MCC4899 - Cable and other pay Television Services",
+    "id": "MCC4899 - Cable and other pay Television Services"
+  },
+  {
+    "label": "MCC4900 - Utilities Electric, Gas, Water, Sanitary",
+    "id": "MCC4900 - Utilities Electric, Gas, Water, Sanitary"
+  },
+  {
+    "label": "MCC5044 - Photographic, Photocopy, Microfilm Equipment &amp; Supplies",
+    "id": "MCC5044 - Photographic, Photocopy, Microfilm Equipment &amp; Supplies"
+  },
+  {
+    "label": "MCC5045 - Computer Hardware (monitor, keyboard,dll)",
+    "id": "MCC5045 - Computer Hardware (monitor, keyboard,dll)"
+  },
+  {
+    "label": "MCC5046 - Commercial Equipment Not Elsewhere Classified",
+    "id": "MCC5046 - Commercial Equipment Not Elsewhere Classified"
+  },
+  {
+    "label": "MCC5047 - Dental Equipment, Supplies",
+    "id": "MCC5047 - Dental Equipment, Supplies"
+  },
+  {
+    "label": "MCC5051 - Metal Services &amp; Offices",
+    "id": "MCC5051 - Metal Services &amp; Offices"
+  },
+  {
+    "label": "MCC5065 - Metal Services &amp; Offices",
+    "id": "MCC5065 - Metal Services &amp; Offices"
+  },
+  {
+    "label": "MCC5085 - Plastik, karet/rubber, box",
+    "id": "MCC5085 - Plastik, karet/rubber, box"
+  },
+  {
+    "label": "MCC5111 - Printing &amp; Writing Paper,Office Supply &amp; Stationary",
+    "id": "MCC5111 - Printing &amp; Writing Paper,Office Supply &amp; Stationary"
+  },
+  {
+    "label": "MCC5137 - Mens, Ladies &amp; Childrens Uniforms &amp; Commercial Clothing",
+    "id": "MCC5137 - Mens, Ladies &amp; Childrens Uniforms &amp; Commercial Clothing"
+  },
+  {
+    "label": "MCC5169 - Chemicals &amp; Similar Products",
+    "id": "MCC5169 - Chemicals &amp; Similar Products"
+  },
+  {
+    "label": "MCC5172 - Fuel Products, Services (Petroleum)",
+    "id": "MCC5172 - Fuel Products, Services (Petroleum)"
+  },
+  {
+    "label": "MCC5192 - Newspapers, Books and Periodicals",
+    "id": "MCC5192 - Newspapers, Books and Periodicals"
+  },
+  {
+    "label": "MCC5199 - Goods - Non Durable (Not Elsewhere Classified)",
+    "id": "MCC5199 - Goods - Non Durable (Not Elsewhere Classified)"
+  },
+  {
+    "label": "MCC5200 - Home Supply Warehouse Stores",
+    "id": "MCC5200 - Home Supply Warehouse Stores"
+  },
+  {
+    "label": "MCC5211 - Materials Stores",
+    "id": "MCC5211 - Materials Stores"
+  },
+  {
+    "label": "MCC5231 - Glass, Paint, Wall Paper Stores",
+    "id": "MCC5231 - Glass, Paint, Wall Paper Stores"
+  },
+  {
+    "label": "MCC5251 - Hardware Stores (bearing ; gigi/ring,baut,paku,bor,tang,etc)",
+    "id": "MCC5251 - Hardware Stores (bearing ; gigi/ring,baut,paku,bor,tang,etc)"
+  },
+  {
+    "label": "MCC5261 - Benih Insectisida, Fungisida, Pestisida, Herbisida, Pupuk, Obat-obatan untuk ternak, dll",
+    "id": "MCC5261 - Benih Insectisida, Fungisida, Pestisida, Herbisida, Pupuk, Obat-obatan untuk ternak, dll"
+  },
+  {
+    "label": "MCC5309 - Duty Free Stores",
+    "id": "MCC5309 - Duty Free Stores"
+  },
+  {
+    "label": "MCC5311 - Department Stores",
+    "id": "MCC5311 - Department Stores"
+  },
+  {
+    "label": "MCC5399 - General Merchandise",
+    "id": "MCC5399 - General Merchandise"
+  },
+  {
+    "label": "MCC5411 - Supermarkets &amp; Grocery Shops",
+    "id": "MCC5411 - Supermarkets &amp; Grocery Shops"
+  },
+  {
+    "label": "MCC5422 - Meat Markets and Retailers",
+    "id": "MCC5422 - Meat Markets and Retailers"
+  },
+  {
+    "label": "MCC5441 - Sweets, Nuts &amp; Confectionery Shops",
+    "id": "MCC5441 - Sweets, Nuts &amp; Confectionery Shops"
+  },
+  {
+    "label": "MCC5462 - Bakeries/Cakes Shops",
+    "id": "MCC5462 - Bakeries/Cakes Shops"
+  },
+  {
+    "label": "MCC5499 - Miscellaneous Food Shops",
+    "id": "MCC5499 - Miscellaneous Food Shops"
+  },
+  {
+    "label": "MCC5511 - Car &amp; Truck Dealers-Sales,Service,Repairs,Parts,Leasing",
+    "id": "MCC5511 - Car &amp; Truck Dealers-Sales,Service,Repairs,Parts,Leasing"
+  },
+  {
+    "label": "MCC5521 - Car &amp; Truck Dealers-Sales,Service,Repairs,Parts,Leasing",
+    "id": "MCC5521 - Car &amp; Truck Dealers-Sales,Service,Repairs,Parts,Leasing"
+  },
+  {
+    "label": "MCC5532 - Automobile Tire Stores",
+    "id": "MCC5532 - Automobile Tire Stores"
+  },
+  {
+    "label": "MCC5533 - Automobile Parts, Accessories (Spareparts)",
+    "id": "MCC5533 - Automobile Parts, Accessories (Spareparts)"
+  },
+  {
+    "label": "MCC5541 - Gasoline Service Stations",
+    "id": "MCC5541 - Gasoline Service Stations"
+  },
+  {
+    "label": "MCC5571 - Motorcycle Dealers (Dealer Motor)",
+    "id": "MCC5571 - Motorcycle Dealers (Dealer Motor)"
+  },
+  {
+    "label": "MCC5599 - Miscellaneous Automotive Dealer",
+    "id": "MCC5599 - Miscellaneous Automotive Dealer"
+  },
+  {
+    "label": "MCC5611 - Mens &amp; Boys Clothing",
+    "id": "MCC5611 - Mens &amp; Boys Clothing"
+  },
+  {
+    "label": "MCC5621 - Womens Wear Stores (Lingerie)",
+    "id": "MCC5621 - Womens Wear Stores (Lingerie)"
+  },
+  {
+    "label": "MCC5631 - Tas",
+    "id": "MCC5631 - Tas"
+  },
+  {
+    "label": "MCC5641 - Childrens Wear Stores",
+    "id": "MCC5641 - Childrens Wear Stores"
+  },
+  {
+    "label": "MCC5651 - Family Clothing Stores",
+    "id": "MCC5651 - Family Clothing Stores"
+  },
+  {
+    "label": "MCC5661 - Shoe Stores",
+    "id": "MCC5661 - Shoe Stores"
+  },
+  {
+    "label": "MCC5691 - Ladies Clothing",
+    "id": "MCC5691 - Ladies Clothing"
+  },
+  {
+    "label": "MCC5697 - Tailors",
+    "id": "MCC5697 - Tailors"
+  },
+  {
+    "label": "MCC5699 - Accessories Stores (to fashion)",
+    "id": "MCC5699 - Accessories Stores (to fashion)"
+  },
+  {
+    "label": "MCC5712 - Furniture",
+    "id": "MCC5712 - Furniture"
+  },
+  {
+    "label": "MCC5713 - Ceramics / Carpets",
+    "id": "MCC5713 - Ceramics / Carpets"
+  },
+  {
+    "label": "MCC5719 - Miscellaneous Home Furnishing, Specialty Stores",
+    "id": "MCC5719 - Miscellaneous Home Furnishing, Specialty Stores"
+  },
+  {
+    "label": "MCC5722 - House Hold Appliances Stores / SANITARY",
+    "id": "MCC5722 - House Hold Appliances Stores / SANITARY"
+  },
+  {
+    "label": "MCC5732 - Radio,Television Stores (VCD,DVD,Tape)",
+    "id": "MCC5732 - Radio,Television Stores (VCD,DVD,Tape)"
+  },
+  {
+    "label": "MCC5733 - Music Stores",
+    "id": "MCC5733 - Music Stores"
+  },
+  {
+    "label": "MCC5734 - Computer Software",
+    "id": "MCC5734 - Computer Software"
+  },
+  {
+    "label": "MCC5735 - Record Stores",
+    "id": "MCC5735 - Record Stores"
+  },
+  {
+    "label": "MCC5811 - Food Preparation - Catering",
+    "id": "MCC5811 - Food Preparation - Catering"
+  },
+  {
+    "label": "MCC5812 - Cafes, Restaurants",
+    "id": "MCC5812 - Cafes, Restaurants"
+  },
+  {
+    "label": "MCC5813 - Bars, Nightclubs, Cocktail Lounges, Discotheques, Etc.",
+    "id": "MCC5813 - Bars, Nightclubs, Cocktail Lounges, Discotheques, Etc."
+  },
+  {
+    "label": "MCC5814 - Fast Foods Rest / Coffee Shops",
+    "id": "MCC5814 - Fast Foods Rest / Coffee Shops"
+  },
+  {
+    "label": "MCC5912 - Chemist and Pharmacies",
+    "id": "MCC5912 - Chemist and Pharmacies"
+  },
+  {
+    "label": "MCC5921 - Package Store - Beer, Wine and Liquor",
+    "id": "MCC5921 - Package Store - Beer, Wine and Liquor"
+  },
+  {
+    "label": "MCC5932 - Antique Shops",
+    "id": "MCC5932 - Antique Shops"
+  },
+  {
+    "label": "MCC5940 - Bicycle Shops",
+    "id": "MCC5940 - Bicycle Shops"
+  },
+  {
+    "label": "MCC5941 - Sporting Goods",
+    "id": "MCC5941 - Sporting Goods"
+  },
+  {
+    "label": "MCC5942 - Book Store",
+    "id": "MCC5942 - Book Store"
+  },
+  {
+    "label": "MCC5943 - Office Supply / Stationary",
+    "id": "MCC5943 - Office Supply / Stationary"
+  },
+  {
+    "label": "MCC5944 - Jewellery / Watches &amp; Clock",
+    "id": "MCC5944 - Jewellery / Watches &amp; Clock"
+  },
+  {
+    "label": "MCC5945 - Hobby, Toys, Game Shop",
+    "id": "MCC5945 - Hobby, Toys, Game Shop"
+  },
+  {
+    "label": "MCC5946 - Camera",
+    "id": "MCC5946 - Camera"
+  },
+  {
+    "label": "MCC5947 - Gift, Card, Novelty and Souvenir Shops (Memorabilia)",
+    "id": "MCC5947 - Gift, Card, Novelty and Souvenir Shops (Memorabilia)"
+  },
+  {
+    "label": "MCC5948 - Leather Goods",
+    "id": "MCC5948 - Leather Goods"
+  },
+  {
+    "label": "MCC5949 - Fabric, Needlework, Piece Goods &amp; Sewing Stores",
+    "id": "MCC5949 - Fabric, Needlework, Piece Goods &amp; Sewing Stores"
+  },
+  {
+    "label": "MCC5950 - Crystal Stores",
+    "id": "MCC5950 - Crystal Stores"
+  },
+  {
+    "label": "MCC5960 - Direct Marketing (Insurance Services)",
+    "id": "MCC5960 - Direct Marketing (Insurance Services)"
+  },
+  {
+    "label": "MCC5962 - Telemarketing",
+    "id": "MCC5962 - Telemarketing"
+  },
+  {
+    "label": "MCC5963 - Merchants that sell merch. by means of house to house or from trucks or other temp. locations",
+    "id": "MCC5963 - Merchants that sell merch. by means of house to house or from trucks or other temp. locations"
+  },
+  {
+    "label": "MCC5964 - Direct Mailing / Mail Order",
+    "id": "MCC5964 - Direct Mailing / Mail Order"
+  },
+  {
+    "label": "MCC5965 - Direct Marketing/Combination Catalogue&amp;Retail Merchant",
+    "id": "MCC5965 - Direct Marketing/Combination Catalogue&amp;Retail Merchant"
+  },
+  {
+    "label": "MCC5968 - Direct Marketing (Continuity / Subscription Merchant)",
+    "id": "MCC5968 - Direct Marketing (Continuity / Subscription Merchant)"
+  },
+  {
+    "label": "MCC5969 - Mail Order / MOTO / SOF",
+    "id": "MCC5969 - Mail Order / MOTO / SOF"
+  },
+  {
+    "label": "MCC5970 - Artists Supply &amp; Craft Shop",
+    "id": "MCC5970 - Artists Supply &amp; Craft Shop"
+  },
+  {
+    "label": "MCC5971 - Art Dealers &amp; Galleries",
+    "id": "MCC5971 - Art Dealers &amp; Galleries"
+  },
+  {
+    "label": "MCC5973 - Religious Good Store",
+    "id": "MCC5973 - Religious Good Store"
+  },
+  {
+    "label": "MCC5976 - Orthopedic Goods - Prosthetic Devices   (mis.OSIM)",
+    "id": "MCC5976 - Orthopedic Goods - Prosthetic Devices   (mis.OSIM)"
+  },
+  {
+    "label": "MCC5977 - Cosmetics Shops",
+    "id": "MCC5977 - Cosmetics Shops"
+  },
+  {
+    "label": "MCC5992 - Florists",
+    "id": "MCC5992 - Florists"
+  },
+  {
+    "label": "MCC5993 - Cigar Shops and Stands (pabrik rokok/kretek)",
+    "id": "MCC5993 - Cigar Shops and Stands (pabrik rokok/kretek)"
+  },
+  {
+    "label": "MCC5995 - Pet Shops-->Pet Food and Supplies",
+    "id": "MCC5995 - Pet Shops--&gt;Pet Food and Supplies"
+  },
+  {
+    "label": "MCC5997 - Electric Razor",
+    "id": "MCC5997 - Electric Razor"
+  },
+  {
+    "label": "MCC5999 - Miscellaneous and Specialty Retail Store",
+    "id": "MCC5999 - Miscellaneous and Specialty Retail Store"
+  },
+  {
+    "label": "MCC6010 - Cash Advance",
+    "id": "MCC6010 - Cash Advance"
+  },
+  {
+    "label": "MCC6011 - ATM / Cash Dispensers",
+    "id": "MCC6011 - ATM / Cash Dispensers"
+  },
+  {
+    "label": "MCC6012 - Financial Institutions-Merchandise and Services",
+    "id": "MCC6012 - Financial Institutions-Merchandise and Services"
+  },
+  {
+    "label": "MCC6051 - Money Changer",
+    "id": "MCC6051 - Money Changer"
+  },
+  {
+    "label": "MCC6211 - Security Broker Dealer",
+    "id": "MCC6211 - Security Broker Dealer"
+  },
+  {
+    "label": "MCC6300 - Insurance Sales, Underwriting and Premiums",
+    "id": "MCC6300 - Insurance Sales, Underwriting and Premiums"
+  },
+  {
+    "label": "MCC6513 - Real Estate Agents, Brokers and Managers - Rental",
+    "id": "MCC6513 - Real Estate Agents, Brokers and Managers - Rental"
+  },
+  {
+    "label": "MCC7011 - Hotels, Motels",
+    "id": "MCC7011 - Hotels, Motels"
+  },
+  {
+    "label": "MCC7012 - Timeshare",
+    "id": "MCC7012 - Timeshare"
+  },
+  {
+    "label": "MCC7210 - Laundry",
+    "id": "MCC7210 - Laundry"
+  },
+  {
+    "label": "MCC7216 - Dry Cleaners",
+    "id": "MCC7216 - Dry Cleaners"
+  },
+  {
+    "label": "MCC7217 - Carpet Cleaning",
+    "id": "MCC7217 - Carpet Cleaning"
+  },
+  {
+    "label": "MCC7221 - Photographic Studios",
+    "id": "MCC7221 - Photographic Studios"
+  },
+  {
+    "label": "MCC7230 - Beauty &amp; Barber Shops",
+    "id": "MCC7230 - Beauty &amp; Barber Shops"
+  },
+  {
+    "label": "MCC7251 - Personal Service Providers; Shoe Shine Parlors,Shoe Repair,etc",
+    "id": "MCC7251 - Personal Service Providers; Shoe Shine Parlors,Shoe Repair,etc"
+  },
+  {
+    "label": "MCC7261 - Funeral Service and Cremation",
+    "id": "MCC7261 - Funeral Service and Cremation"
+  },
+  {
+    "label": "MCC7278 - Buying and Shopping Services and Clubs",
+    "id": "MCC7278 - Buying and Shopping Services and Clubs"
+  },
+  {
+    "label": "MCC7297 - Massage Parlor",
+    "id": "MCC7297 - Massage Parlor"
+  },
+  {
+    "label": "MCC7298 - Spa",
+    "id": "MCC7298 - Spa"
+  },
+  {
+    "label": "MCC7299 - Apartments &amp; Residential,  Apartment Buildings",
+    "id": "MCC7299 - Apartments &amp; Residential,  Apartment Buildings"
+  },
+  {
+    "label": "MCC7311 - Advertising Service",
+    "id": "MCC7311 - Advertising Service"
+  },
+  {
+    "label": "MCC7338 - Quick Copy",
+    "id": "MCC7338 - Quick Copy"
+  },
+  {
+    "label": "MCC7372 - Computer Programming",
+    "id": "MCC7372 - Computer Programming"
+  },
+  {
+    "label": "MCC7392 - Management Consulting &amp; Public Relation Services",
+    "id": "MCC7392 - Management Consulting &amp; Public Relation Services"
+  },
+  {
+    "label": "MCC7393 - Detective Agencies /Security Services",
+    "id": "MCC7393 - Detective Agencies /Security Services"
+  },
+  {
+    "label": "MCC7394 - Equipment Rental &amp; Leasing Serv,Furniture Rental,Tool Rental",
+    "id": "MCC7394 - Equipment Rental &amp; Leasing Serv,Furniture Rental,Tool Rental"
+  },
+  {
+    "label": "MCC7399 - Business Service (Seminar Planning Services)",
+    "id": "MCC7399 - Business Service (Seminar Planning Services)"
+  },
+  {
+    "label": "MCC7512 - Car Rental Agency",
+    "id": "MCC7512 - Car Rental Agency"
+  },
+  {
+    "label": "MCC7531 - Automotive Shops",
+    "id": "MCC7531 - Automotive Shops"
+  },
+  {
+    "label": "MCC7538 - Automotive Service Shops (non Dealer)",
+    "id": "MCC7538 - Automotive Service Shops (non Dealer)"
+  },
+  {
+    "label": "MCC7542 - Car Washes",
+    "id": "MCC7542 - Car Washes"
+  },
+  {
+    "label": "MCC7623 - Air Conditioning &amp; Refrigeration Repair Shops",
+    "id": "MCC7623 - Air Conditioning &amp; Refrigeration Repair Shops"
+  },
+  {
+    "label": "MCC7629 - Electrical and Small Appliance Repair Shops",
+    "id": "MCC7629 - Electrical and Small Appliance Repair Shops"
+  },
+  {
+    "label": "MCC7699 - Miscellaneous Repair shops and Related Services (repair services)",
+    "id": "MCC7699 - Miscellaneous Repair shops and Related Services (repair services)"
+  },
+  {
+    "label": "MCC7832 - Cinemas",
+    "id": "MCC7832 - Cinemas"
+  },
+  {
+    "label": "MCC7833 - VISA Platinum Only",
+    "id": "MCC7833 - VISA Platinum Only"
+  },
+  {
+    "label": "MCC7841 - Video Tape Rental Shops (service)",
+    "id": "MCC7841 - Video Tape Rental Shops (service)"
+  },
+  {
+    "label": "MCC7911 - Dance Halls, Schools, Studios",
+    "id": "MCC7911 - Dance Halls, Schools, Studios"
+  },
+  {
+    "label": "MCC7929 - Bands, Orchestras and Miscellaneous Entertainers",
+    "id": "MCC7929 - Bands, Orchestras and Miscellaneous Entertainers"
+  },
+  {
+    "label": "MCC7932 - Billiard and Pool Estabilishments",
+    "id": "MCC7932 - Billiard and Pool Estabilishments"
+  },
+  {
+    "label": "MCC7933 - Bowling",
+    "id": "MCC7933 - Bowling"
+  },
+  {
+    "label": "MCC7941 - Commercials Sports",
+    "id": "MCC7941 - Commercials Sports"
+  },
+  {
+    "label": "MCC7992 - Golf Courses",
+    "id": "MCC7992 - Golf Courses"
+  },
+  {
+    "label": "MCC7994 - Video Game / Game Shop",
+    "id": "MCC7994 - Video Game / Game Shop"
+  },
+  {
+    "label": "MCC7996 - Amusement Parks, Circuses, Carnivals and Fotune Tellers",
+    "id": "MCC7996 - Amusement Parks, Circuses, Carnivals and Fotune Tellers"
+  },
+  {
+    "label": "MCC7997 - Membership Clubs (Sports, Recreation, Athletic), Country Clubs and Private Golf Courses",
+    "id": "MCC7997 - Membership Clubs (Sports, Recreation, Athletic), Country Clubs and Private Golf Courses"
+  },
+  {
+    "label": "MCC7998 - Aquariums",
+    "id": "MCC7998 - Aquariums"
+  },
+  {
+    "label": "MCC7999 - Recreation Service / Diving",
+    "id": "MCC7999 - Recreation Service / Diving"
+  },
+  {
+    "label": "MCC8011 - Health Practitioners - Doctors and Physicians",
+    "id": "MCC8011 - Health Practitioners - Doctors and Physicians"
+  },
+  {
+    "label": "MCC8021 - Dentists and Orthodontists",
+    "id": "MCC8021 - Dentists and Orthodontists"
+  },
+  {
+    "label": "MCC8043 - Opticians, Optical Goods and Eye Glasses",
+    "id": "MCC8043 - Opticians, Optical Goods and Eye Glasses"
+  },
+  {
+    "label": "MCC8050 - Nursing and Personal Care Facilities",
+    "id": "MCC8050 - Nursing and Personal Care Facilities"
+  },
+  {
+    "label": "MCC8062 - Hospitals",
+    "id": "MCC8062 - Hospitals"
+  },
+  {
+    "label": "MCC8071 - Medical and Dental Laboratories",
+    "id": "MCC8071 - Medical and Dental Laboratories"
+  },
+  {
+    "label": "MCC8099 - Medical Services &amp; Health Practitioners",
+    "id": "MCC8099 - Medical Services &amp; Health Practitioners"
+  },
+  {
+    "label": "MCC8111 - Legal Services &amp; Attorneys (khusus notaries)",
+    "id": "MCC8111 - Legal Services &amp; Attorneys (khusus notaries)"
+  },
+  {
+    "label": "MCC8244 - Schools (Business &amp; Secretarial)",
+    "id": "MCC8244 - Schools (Business &amp; Secretarial)"
+  },
+  {
+    "label": "MCC8299 - Schools and Educational Services (not Elsewhere Classified)",
+    "id": "MCC8299 - Schools and Educational Services (not Elsewhere Classified)"
+  },
+  {
+    "label": "MCC8398 - Charitable Organizations (Charity)",
+    "id": "MCC8398 - Charitable Organizations (Charity)"
+  },
+  {
+    "label": "MCC8641 - Fraternal Associations",
+    "id": "MCC8641 - Fraternal Associations"
+  },
+  {
+    "label": "MCC8661 - Organizations Religious",
+    "id": "MCC8661 - Organizations Religious"
+  },
+  {
+    "label": "MCC8675- Automobile Associations",
+    "id": "MCC8675- Automobile Associations"
+  },
+  {
+    "label": "MCC8699 - Professional Organizations, Membership Organizations, not Elsewhere Classified",
+    "id": "MCC8699 - Professional Organizations, Membership Organizations, not Elsewhere Classified"
+  },
+  {
+    "label": "MCC8911 - Architectural, Engineering, and Surveying Service",
+    "id": "MCC8911 - Architectural, Engineering, and Surveying Service"
+  },
+  {
+    "label": "MCC8931 - Accounting, auditing",
+    "id": "MCC8931 - Accounting, auditing"
+  },
+  {
+    "label": "MCC8999 - Professional Service-Not Elsewhere Classified",
+    "id": "MCC8999 - Professional Service-Not Elsewhere Classified"
+  },
+  {
+    "label": "MCC9311 - Tax Payments",
+    "id": "MCC9311 - Tax Payments"
+  },
+  {
+    "label": "MCC9399 - Government Services, Not Elsewhere Classified",
+    "id": "MCC9399 - Government Services, Not Elsewhere Classified"
+  }
+]

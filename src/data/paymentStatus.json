@@ -1,0 +1,18 @@
+[
+    {
+      "value": "SETLD",
+      "label": "Settled"
+    },
+    {
+      "value": "PNDNG",
+      "label": "Pending"
+    },
+    {
+      "value": "CANCL",
+      "label": "Cancel"
+    },
+    {
+      "value": "REJEC",
+      "label": "Reject"
+    }
+  ]

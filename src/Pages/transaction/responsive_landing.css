@@ -1,0 +1,20 @@
+
+.warpper-donation-link{
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 8px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 8px 2px rgba(0,0,0,0.75);
+    border-radius: 2vh;
+}
+@media only screen and (min-width: 1273px) {
+    .warpper-donation-link{
+      margin-left: 9rem;
+      margin-right: 9rem;
+      margin-top: 4rem;
+    }
+}
+@media only screen and (min-width: 820px) {
+    .warpper-donation-link{
+      margin-left: 5rem;
+      margin-right: 5rem;
+    }
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="%PUBLIC_URL%/favicon.png" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="favicon.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="%PUBLIC_URL%/plugins/fontawesome-free/css/all.min.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="%PUBLIC_URL%/plugins/toastr/toastr.min.css">
+    
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    
+    <!-- summernote -->
+    <link rel="stylesheet" href="%PUBLIC_URL%/plugins/summernote/summernote-bs4.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/plugins/toastr/toastr.min.css">
+
+    <script src="https://storage.googleapis.com/f8a350-taplive-prd-public/static/launcher/web/v1.0/main.js" defer> </script>
+    
+    <style>
+      .dangerouslySetInnerHTML img {
+        max-width: 100%;
+      }
+      .swal2-container {
+        z-index: 2000 !important;
+      }
+    </style>
+    
+    <script>
+      __DEV__ = '%NODE_ENV%' === 'development'
+    </script>
+   
+  </head>
+  <body class='layout-fixed' style="height: auto;">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+    </div>
+  
+    <!-- jQuery -->
+    <script src="%PUBLIC_URL%/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="%PUBLIC_URL%/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="%PUBLIC_URL%/dist/js/adminlte.min.js"></script>
+    
+    <!-- Summernote -->
+    <script src="%PUBLIC_URL%/plugins/summernote/summernote-bs4.min.js"></script>
+    
+    <script src="%PUBLIC_URL%/plugins/toastr/toastr.min.js"></script>
+
+
+    <script>
+        toastr.options = {
+          "preventDuplicates": true,
+          "timeOut": 5000,
+        }
+        
+        window.callToastr = function(msg,type){
+          switch(type){
+            case 'success': toastr.success(msg); break;
+            case 'info': toastr.info(msg); break;
+            case 'error': toastr.error(msg); break;
+            case 'warning': toastr.warning(msg); break;
+          }
+        }     
+    </script>
+  </body>
+</html>

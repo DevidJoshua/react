@@ -1,0 +1,22 @@
+[
+  {
+    "value": "CC",
+    "label": "Credit Card"
+  },
+  {
+    "value": "DD",
+    "label": "Debitin"
+  },
+  {
+    "value": "VA",
+    "label": "Virtual Account"
+  },
+  {
+    "value": "QR",
+    "label": "QRIS"
+  },
+  {
+    "value": "PL",
+    "label": "Paylater"
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "step2":["nama_brand", "kategori_bisnis", "kegiatan_usaha", "media_bisnis", "media_sosial", "nama_pic_finance", "email_pic_finance", "notelp_pic_finance", "nama_pic_teknis", "email_pic_teknis", "notelp_pic_teknis", "alamat_bisnis"],
+    "step3":["nama_pemilik_bisnis", "email_pemilik_bisnis", "notelp_pemilik_bisnis", "potensi_transaksi_va_bulanan"],
+    "step4":["doc_ktp","doc_foto_diri_ktp","doc_npwp","noktp_pemilik_bisnis","no_npwp_usaha"]
+}
+

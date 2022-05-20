@@ -1,0 +1,6 @@
+export { default as MerchantkeyModalCon } from './ModalWrapperCon'
+export { default as OnOffSwitcherCon } from './OnOffSwitcherCon'
+// export { default as PaymentPageCon } from './PaymentPageCon'
+// export { default as PaymentPageStep2Con } from './PaymentPageStep2Con'
+// export { default as PaymentPageStatusPaymentCon } from './PaymentPageStatusPaymentCon'
+// export { default as PaymentPageStep3Con } from './PaymentPageStep3Con'
